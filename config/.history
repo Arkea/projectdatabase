@@ -1,0 +1,10 @@
+git
+php
+git
+php
+git pull https://github.com/dayatstuff/kopdarx
+php
+git pull https://github.com/dayatstuff/kopdarx
+curl.exe -X POST http://localhost/id_admin/login.php -F (email="anu"&password_1="aku")
+curl.exe -X POST http://localhost/id_admin/login.php -F (email="anu",password_1="aku")
+curl.exe -X POST http://localhost/id_admin/anu.php -F (email="anu",password_1="aku")
